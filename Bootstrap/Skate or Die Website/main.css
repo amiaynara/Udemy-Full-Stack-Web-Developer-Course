@@ -1,0 +1,14 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.sectionLight{
+    background-color: #eceeef;
+    padding: 2em;
+}
+
+.sectionDark{
+   background-color: #cccccc;
+    padding: 2rem;
+}
